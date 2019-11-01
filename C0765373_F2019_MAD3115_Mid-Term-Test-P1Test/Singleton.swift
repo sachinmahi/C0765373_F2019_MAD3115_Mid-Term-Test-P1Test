@@ -59,7 +59,7 @@ class Singleton: NSObject
         let c3 = Customer(customerID: 4, customerFName: "sachin", customerLName: "mahi", customerEmail: "sachin@gmail.com ")
         AddCustomer(customer: c3)
         let c4 = Customer(customerID: 3, customerFName: "Harmanpreet", customerLName: "Singh", customerEmail: "harmanpreetsingh@gmail.com ")
-               AddCustomer(customer: c5)
+               AddCustomer(customer: c4)
        
     }
     
