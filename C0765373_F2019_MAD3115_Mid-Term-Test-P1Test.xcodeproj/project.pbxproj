@@ -18,6 +18,7 @@
 		1AD48A3B236CBE7F0005E36F /* CustomerListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD48A3A236CBE7F0005E36F /* CustomerListViewController.swift */; };
 		1AD48A3D236CBEBF0005E36F /* Singleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD48A3C236CBEBF0005E36F /* Singleton.swift */; };
 		1AD48A3F236CC29C0005E36F /* AddCustomerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD48A3E236CC29C0005E36F /* AddCustomerViewController.swift */; };
+		1AD48A41236CC3040005E36F /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1AD48A40236CC3040005E36F /* Property List.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		1AD48A3A236CBE7F0005E36F /* CustomerListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerListViewController.swift; sourceTree = "<group>"; };
 		1AD48A3C236CBEBF0005E36F /* Singleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Singleton.swift; sourceTree = "<group>"; };
 		1AD48A3E236CC29C0005E36F /* AddCustomerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCustomerViewController.swift; sourceTree = "<group>"; };
+		1AD48A40236CC3040005E36F /* Property List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				1AD48A3A236CBE7F0005E36F /* CustomerListViewController.swift */,
 				1AD48A3C236CBEBF0005E36F /* Singleton.swift */,
 				1AD48A3E236CC29C0005E36F /* AddCustomerViewController.swift */,
+				1AD48A40236CC3040005E36F /* Property List.plist */,
 			);
 			path = "C0765373_F2019_MAD3115_Mid-Term-Test-P1Test";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				1AD48A2F236CB9340005E36F /* LaunchScreen.storyboard in Resources */,
 				1AD48A37236CB9D20005E36F /* LC-full.jpg in Resources */,
 				1AD48A2C236CB9340005E36F /* Assets.xcassets in Resources */,
+				1AD48A41236CC3040005E36F /* Property List.plist in Resources */,
 				1AD48A2A236CB9330005E36F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
